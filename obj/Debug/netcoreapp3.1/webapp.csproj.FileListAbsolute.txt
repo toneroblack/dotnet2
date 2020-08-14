@@ -1,0 +1,12 @@
+/Users/inope/webapp/bin/Debug/netcoreapp3.1/webapp.deps.json
+/Users/inope/webapp/bin/Debug/netcoreapp3.1/webapp.runtimeconfig.json
+/Users/inope/webapp/bin/Debug/netcoreapp3.1/webapp.runtimeconfig.dev.json
+/Users/inope/webapp/bin/Debug/netcoreapp3.1/webapp.dll
+/Users/inope/webapp/bin/Debug/netcoreapp3.1/webapp.pdb
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.csprojAssemblyReference.cache
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.AssemblyInfoInputs.cache
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.AssemblyInfo.cs
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.csproj.CoreCompileInputs.cache
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.dll
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.pdb
+/Users/inope/webapp/obj/Debug/netcoreapp3.1/webapp.genruntimeconfig.cache
